@@ -1,0 +1,6 @@
+{
+  "name": "string",
+  "createdOn": "date",
+  "additive": "boolean",
+  "user_id": "ObjectId"
+}
