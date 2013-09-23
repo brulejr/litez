@@ -1,4 +1,4 @@
-# node-chatter
+# litez
 
 Lighting control program written in Node.js
 
